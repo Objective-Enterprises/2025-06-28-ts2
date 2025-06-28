@@ -1,6 +1,8 @@
 import Hello from "./components/Hello"
 import { BrowserRouter } from "react-router-dom"
 
+// npm install --save-dev @types/react-router-dom
+
 function App() {
   return (
     <BrowserRouter>
